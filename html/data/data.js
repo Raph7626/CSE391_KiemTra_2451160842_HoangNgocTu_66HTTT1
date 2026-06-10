@@ -2,24 +2,24 @@
 let records = [
     {
         id: 1,
-        tenTruong: "Trường THPT Nguyễn Huệ",
-        donVi: "pgd_HD",
+        tenTruong: "Đại học Thủy Lợi",
+        donVi: "pgd_HN",
         trangThai: "Done",
-        moTa: "Hoàn thành chuyển đổi số toàn diện: hệ thống LMS, quản lý hành chính, chữ ký số và WiFi campus."
+        moTa: "Hoàn thành chuyển đổi số toàn diện."
     },
     {
         id: 2,
-        tenTruong: "Trường THCS Lê Quý Đôn",
+        tenTruong: "Trường THCS Nguyễn Trãi",
         donVi: "pgd_HN",
         trangThai: "In Progress",
-        moTa: "Đang triển khai phần mềm quản lý học bạ điện tử và camera. Đã hoàn thành 60%."
+        moTa: "Đang triển khai học tập"
     },
     {
         id: 3,
-        tenTruong: "Trường THPT Trần Phú",
+        tenTruong: "Trường THPT Nguyễn Trãi",
         donVi: "pgd_HD",
         trangThai: "Not Started",
-        moTa: "Chưa bắt đầu chuyển đổi số. Đang chờ kế hoạch và kinh phí."
+        moTa: "Chưa bắt đầu chuyển đổi số."
     },
     {
         id: 4,
